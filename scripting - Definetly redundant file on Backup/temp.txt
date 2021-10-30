@@ -1,0 +1,203 @@
+Welcome to the AMX Mod X 1.8.1-300 Compiler.
+Copyright (c) 1997-2013 ITB CompuPhase, AMX Mod X Team
+
+Header size:            260 bytes
+Code size:              424 bytes
+Data size:              220 bytes
+Stack/heap size:      16384 bytes; estimated max. usage=42 cells (168 bytes)
+Total requirements:   17288 bytes
+Done.
+Welcome to the AMX Mod X 1.8.1-300 Compiler.
+Copyright (c) 1997-2013 ITB CompuPhase, AMX Mod X Team
+
+Header size:            484 bytes
+Code size:             2412 bytes
+Data size:              644 bytes
+Stack/heap size:      16384 bytes; estimated max. usage=779 cells (3116 bytes)
+Total requirements:   19924 bytes
+Done.
+Welcome to the AMX Mod X 1.8.1-300 Compiler.
+Copyright (c) 1997-2013 ITB CompuPhase, AMX Mod X Team
+
+Header size:           1032 bytes
+Code size:            15276 bytes
+Data size:             6600 bytes
+Stack/heap size:      16384 bytes; max. usage is unknown, due to recursion
+Total requirements:   39292 bytes
+Done.
+Welcome to the AMX Mod X 1.8.1-300 Compiler.
+Copyright (c) 1997-2013 ITB CompuPhase, AMX Mod X Team
+
+Header size:           1772 bytes
+Code size:            39948 bytes
+Data size:            25332 bytes
+Stack/heap size:      16384 bytes; max. usage is unknown, due to recursion
+Total requirements:   83436 bytes
+Done.
+Welcome to the AMX Mod X 1.8.1-300 Compiler.
+Copyright (c) 1997-2013 ITB CompuPhase, AMX Mod X Team
+
+Header size:            484 bytes
+Code size:             1080 bytes
+Data size:              760 bytes
+Stack/heap size:      16384 bytes; estimated max. usage=42 cells (168 bytes)
+Total requirements:   18708 bytes
+Done.
+Welcome to the AMX Mod X 1.8.1-300 Compiler.
+Copyright (c) 1997-2013 ITB CompuPhase, AMX Mod X Team
+
+Header size:            544 bytes
+Code size:             2560 bytes
+Data size:             1296 bytes
+Stack/heap size:      16384 bytes; estimated max. usage=190 cells (760 bytes)
+Total requirements:   20784 bytes
+Done.
+Welcome to the AMX Mod X 1.8.1-300 Compiler.
+Copyright (c) 1997-2013 ITB CompuPhase, AMX Mod X Team
+
+Header size:            656 bytes
+Code size:             3544 bytes
+Data size:            18384 bytes
+Stack/heap size:      16384 bytes; estimated max. usage=1046 cells (4184 bytes)
+Total requirements:   38968 bytes
+Done.
+Welcome to the AMX Mod X 1.8.1-300 Compiler.
+Copyright (c) 1997-2013 ITB CompuPhase, AMX Mod X Team
+
+Header size:            444 bytes
+Code size:             2104 bytes
+Data size:              648 bytes
+Stack/heap size:      16384 bytes; estimated max. usage=779 cells (3116 bytes)
+Total requirements:   19580 bytes
+Done.
+Welcome to the AMX Mod X 1.8.1-300 Compiler.
+Copyright (c) 1997-2013 ITB CompuPhase, AMX Mod X Team
+
+Header size:           1472 bytes
+Code size:            18648 bytes
+Data size:             7016 bytes
+Stack/heap size:      16384 bytes; max. usage is unknown, due to recursion
+Total requirements:   43520 bytes
+Done.
+Welcome to the AMX Mod X 1.8.1-300 Compiler.
+Copyright (c) 1997-2013 ITB CompuPhase, AMX Mod X Team
+
+Header size:           1572 bytes
+Code size:            24048 bytes
+Data size:             9232 bytes
+Stack/heap size:      16384 bytes; max. usage is unknown, due to recursion
+Total requirements:   51236 bytes
+Done.
+Welcome to the AMX Mod X 1.8.1-300 Compiler.
+Copyright (c) 1997-2013 ITB CompuPhase, AMX Mod X Team
+
+Header size:           1400 bytes
+Code size:            23504 bytes
+Data size:            15108 bytes
+Stack/heap size:      16384 bytes; max. usage is unknown, due to recursion
+Total requirements:   56396 bytes
+Done.
+Welcome to the AMX Mod X 1.8.1-300 Compiler.
+Copyright (c) 1997-2013 ITB CompuPhase, AMX Mod X Team
+
+Header size:           1368 bytes
+Code size:             8196 bytes
+Data size:             5524 bytes
+Stack/heap size:      16384 bytes; estimated max. usage=42 cells (168 bytes)
+Total requirements:   31472 bytes
+Done.
+Welcome to the AMX Mod X 1.8.1-300 Compiler.
+Copyright (c) 1997-2013 ITB CompuPhase, AMX Mod X Team
+
+Header size:            316 bytes
+Code size:             1544 bytes
+Data size:             1844 bytes
+Stack/heap size:      16384 bytes; estimated max. usage=136 cells (544 bytes)
+Total requirements:   20088 bytes
+Done.
+Welcome to the AMX Mod X 1.8.1-300 Compiler.
+Copyright (c) 1997-2013 ITB CompuPhase, AMX Mod X Team
+
+Header size:           2264 bytes
+Code size:            19012 bytes
+Data size:            17556 bytes
+Stack/heap size:      16384 bytes; estimated max. usage=2112 cells (8448 bytes)
+Total requirements:   55216 bytes
+Done.
+Welcome to the AMX Mod X 1.8.1-300 Compiler.
+Copyright (c) 1997-2013 ITB CompuPhase, AMX Mod X Team
+
+Header size:            568 bytes
+Code size:             2164 bytes
+Data size:            21768 bytes
+Stack/heap size:      16384 bytes; estimated max. usage=781 cells (3124 bytes)
+Total requirements:   40884 bytes
+Done.
+Welcome to the AMX Mod X 1.8.1-300 Compiler.
+Copyright (c) 1997-2013 ITB CompuPhase, AMX Mod X Team
+
+Header size:            520 bytes
+Code size:             1464 bytes
+Data size:              524 bytes
+Stack/heap size:      16384 bytes; estimated max. usage=40 cells (160 bytes)
+Total requirements:   18892 bytes
+Done.
+Welcome to the AMX Mod X 1.8.1-300 Compiler.
+Copyright (c) 1997-2013 ITB CompuPhase, AMX Mod X Team
+
+Header size:           4112 bytes
+Code size:            99980 bytes
+Data size:           113988 bytes
+Stack/heap size:      65536 bytes; max. usage is unknown, due to recursion
+Total requirements:  283616 bytes
+Done.
+Welcome to the AMX Mod X 1.8.1-300 Compiler.
+Copyright (c) 1997-2013 ITB CompuPhase, AMX Mod X Team
+
+Header size:           1472 bytes
+Code size:            12148 bytes
+Data size:             6632 bytes
+Stack/heap size:      16384 bytes; max. usage is unknown, due to recursion
+Total requirements:   36636 bytes
+Done.
+Welcome to the AMX Mod X 1.8.1-300 Compiler.
+Copyright (c) 1997-2013 ITB CompuPhase, AMX Mod X Team
+
+Header size:            876 bytes
+Code size:             8728 bytes
+Data size:             2608 bytes
+Stack/heap size:      16384 bytes; estimated max. usage=781 cells (3124 bytes)
+Total requirements:   28596 bytes
+Done.
+Welcome to the AMX Mod X 1.8.1-300 Compiler.
+Copyright (c) 1997-2013 ITB CompuPhase, AMX Mod X Team
+
+Header size:            440 bytes
+Code size:             3288 bytes
+Data size:              836 bytes
+Stack/heap size:      16384 bytes; estimated max. usage=781 cells (3124 bytes)
+Total requirements:   20948 bytes
+Done.
+Welcome to the AMX Mod X 1.8.1-300 Compiler.
+Copyright (c) 1997-2013 ITB CompuPhase, AMX Mod X Team
+
+Header size:           1492 bytes
+Code size:            16348 bytes
+Data size:            16224 bytes
+Stack/heap size:      16384 bytes; max. usage is unknown, due to recursion
+Total requirements:   50448 bytes
+Done.
+Welcome to the AMX Mod X 1.8.1-300 Compiler.
+Copyright (c) 1997-2013 ITB CompuPhase, AMX Mod X Team
+
+amx_super_menu.sma(309) : warning 206: redundant test: constant expression is non-zero
+amx_super_menu.sma(328) : warning 206: redundant test: constant expression is non-zero
+amx_super_menu.sma(345) : warning 206: redundant test: constant expression is non-zero
+Header size:           1204 bytes
+Code size:            37732 bytes
+Data size:            46120 bytes
+Stack/heap size:      16384 bytes; max. usage is unknown, due to recursion
+Total requirements:  101440 bytes
+
+3 Warnings.
+Done.
