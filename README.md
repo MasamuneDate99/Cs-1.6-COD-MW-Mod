@@ -9,12 +9,12 @@ Beginner guide for scripting ( Cod : MW mod )
 https://pastebin.com/0BrWeXeC
 
 Usefull Links :
-AMX Mod X Documentation                 : https://www.amxmodx.org/doc/
-AMX Mod X Plugin API Documentation      : https://www.amxmodx.org/api/
-CoD Mod Documentation                   : https://codmod_ozone.amxx.pl/cod ( Note this is a documentation for the old Cod. But almost all of the function still work the same as the new Cod, just a little bit different on name and the parameter. )
-Class Generator ( Should be usefull )   : https://amxx.pl/generator-klas/
-Translator                              : https://www.deepl.com/
-CS 1.6 Weapon Code                      : https://forums.alliedmods.net/archive/index.php/t-59003.html
+  1. AMX Mod X Documentation                 : https://www.amxmodx.org/doc/
+  2. AMX Mod X Plugin API Documentation      : https://www.amxmodx.org/api/
+  3. CoD Mod Documentation                   : https://codmod_ozone.amxx.pl/cod ( Note this is a documentation for the old Cod. But almost all of the function still work the same as the new Cod, just a little bit different on name and the parameter. )
+  4. Class Generator ( Should be usefull )   : https://amxx.pl/generator-klas/
+  5. Translator                              : https://www.deepl.com/
+  6. CS 1.6 Weapon Code                      : https://forums.alliedmods.net/archive/index.php/t-59003.html
 
 # Current Work-In-Progress / To-Do-List
   1. Translating base mod into English
